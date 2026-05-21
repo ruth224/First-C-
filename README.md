@@ -18,7 +18,7 @@ THIS INCLUDED :
   <summary> Cost Calculator </summary>
   A system that calculates the cost. Adults recieve a 2 for 1 offer and children normal price.
 Using Data types: 
-''' int ''' 
+~~~ int ~~~
 ''' decimal '''
   
 </details>
@@ -36,9 +36,9 @@ Using Data types:
 </details>
 
 ## Overview of basics 
-'''
+~~~
 Console.Writeline
-''' 
+~~~
 
 ## Key Tips 
 1. Always pay attention and look at the key details
