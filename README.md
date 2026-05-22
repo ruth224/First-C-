@@ -3,20 +3,20 @@ University assignment with trial and error
 This is the assignment I have been working on for the past 5 months learning the basics of C#
 
 ## Assignment 
-To build a Venue Management system for customer and reception use 
+To build a Venue Management system for customer and reception use. <br>
 THIS INCLUDED :
 
 <details>
   <summary> Main Menu </summary>
--->  A welcome message and an input for a username and password, so the user can gain access to the system. 3 chances to enter the correct info.
-
---> User selects out of 6 options in the menu.
+>  A welcome message and an input for a username and password, so the user can gain access to the system. 3 chances to enter the correct info.<br>
+>
+> User selects out of 6 options in the menu.
   
 </details>
 
 <details>
   <summary> Cost Calculator </summary>
-  A system that calculates the cost. Adults recieve a 2 for 1 offer and children normal price.
+ > A system that calculates the cost. Adults recieve a 2 for 1 offer and children normal price.
 Using Data types: 
 ~~~ int ~~~
 ''' decimal '''
@@ -24,21 +24,34 @@ Using Data types:
 </details>
 
 <details>
-  <summary> Main Menu </summary>
+  <summary> Attendance Monitoring </summary>
   '''
   
 </details>
 
 <details>
-  <summary> Main Menu </summary>
+  <summary> Website & Search </summary>
+  '''
+  
+</details>
+
+
+<details>
+  <summary> Registration </summary>
+  '''
+  
+</details>
+
+<details>
+  <summary> Incident Report </summary>
   '''
   
 </details>
 
 ## Overview of basics 
-~~~
-Console.Writeline
-~~~
+
+`Console.Writeline`
+
 
 ## Key Tips 
 1. Always pay attention and look at the key details
