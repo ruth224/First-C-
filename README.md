@@ -1,6 +1,9 @@
 # First C# programme :smiley:
 University assignment with trial and error. <br>
-This is the assignment I have been working on for the past 5 months learning the basics of C#
+This is the assignment I have been working on for the past 5 months learning the basics of C#.
+
+**My draft is in the project prototye folder**<br>
+**Final project in Cs.Program folder**<br>
 
 ## Assignment 
 To build a Venue Management system for customer and reception use. <br>
