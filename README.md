@@ -83,7 +83,6 @@ THIS INCLUDED :
 `Console.clear` - Clears written code above and goes to the next line <br>
 
 
-
 ## Key Tips 
 1. Always pay attention and look at the key details
 2. Patience - building code you're proud of takes time
@@ -99,4 +98,6 @@ Building skills takes time and there are still much to learn.
 2. Make it so the receptionist can edit customer details if wrong. <br>
 3. Give the User the option to change the amount of attendees in booking if not satified with the subtotal.<br>
 4. Make an interger constraint on the number of digits in the customer phone number (cannot go above it). <br>
+
+**PLEASE FEEL FREE TO ADVISE ME ON HOW TO BETTER MY CODE !**
 
