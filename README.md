@@ -1,4 +1,4 @@
-# First C# programming :happy face:
+# First C# programming :happy_face:
 University assignment with trial and error
 This is the assignment I have been working on for the past 5 months learning the basics of C#
 
