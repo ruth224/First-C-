@@ -1,4 +1,4 @@
-# First C# programme :smiley:
+# First C# programme 🩷:
 University assignment with trial and error. <br>
 This is the assignment I have been working on for the past 5 months learning the basics of C#.
 
@@ -83,15 +83,16 @@ THIS INCLUDED :
 `Console.clear` - Clears written code above and goes to the next line <br>
 
 
-## Key Tips 
+## Key Tips (Student Friendly)
 1. Always pay attention and look at the key details
 2. Patience - building code you're proud of takes time
 3. Make time to do extra research - Linkedin learning is a great tool !! [C#](https://www.linkedin.com/learning/learning-c-sharp-8581491?u=36102708 "C#")
 4. **No Access, No problem!** Use this tool - [C# Fundamentals](https://learn.microsoft.com/en-us/shows/csharp-fundamentals-for-absolute-beginners/ "Learn Microsoft C#")
-5. Limit the amount of replication in code and use FUNCTIONS.
-6. Don't overuse AI
+5. Add comments as you go along, with notes of new things learnt 
+6. Limit the amount of replication in code and use FUNCTIONS.
+7. Don't overuse AI
 
-Building skills takes time and there are still much to learn.
+Building skills takes time and there is still much to learn.☺️
 
 ## What Would I Do Differently
 1. Make the incident report connect to a file/ note page to be saved for customer and in the system. <br>
